@@ -1,0 +1,6 @@
+/Users/rhonafilgueras/Projects/AdventureGama/AdventureGama/obj/Debug/AdventureGame.csprojAssemblyReference.cache
+/Users/rhonafilgueras/Projects/AdventureGama/AdventureGama/obj/Debug/AdventureGame.csproj.CoreCompileInputs.cache
+/Users/rhonafilgueras/Projects/AdventureGama/AdventureGama/obj/Debug/AdventureGama.exe
+/Users/rhonafilgueras/Projects/AdventureGama/AdventureGama/obj/Debug/AdventureGama.pdb
+/Users/rhonafilgueras/Projects/AdventureGama/AdventureGama/bin/Debug/AdventureGama.exe
+/Users/rhonafilgueras/Projects/AdventureGama/AdventureGama/bin/Debug/AdventureGama.pdb
