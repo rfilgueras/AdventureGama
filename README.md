@@ -1,4 +1,4 @@
-# AdventureGama
+# Adventure Game
 ## World passage 
 Adventure Game for Introduction to Programming
 
